@@ -1,0 +1,43 @@
+
+body {
+   
+background-color: blanchedalmond;
+
+}
+
+.texto {
+    
+    color: red;
+    background-color: brown;
+    /* position: sticky; */
+}
+
+h1 {
+    display: flex;
+    color: blue;
+background-color: aqua;
+}
+.flex-texto {
+   
+    display: flex ;
+    ;
+}
+
+.texto1 {
+color: greenyellow;
+background-color: green;
+}
+
+.flex-lista {
+    display :flex;
+    
+}
+
+ol {
+    color: blueviolet;
+}
+
+ul {
+    color: brown;
+}
+
